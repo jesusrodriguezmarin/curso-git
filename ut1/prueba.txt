@@ -5,3 +5,5 @@ Vamos a por otra prueba tras:
 3. Add con +
 4. Commit (boton azul).
 5. Sincro.
+6. Ya he realizado el primer merge.
+7. Ahora voya a realizar el segundo con los puntos 6 y 7
