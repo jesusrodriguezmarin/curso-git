@@ -7,3 +7,5 @@ Vamos a por otra prueba tras:
 5. Sincro.
 6. Ya he realizado el primer merge.
 7. Ahora voya a realizar el segundo con los puntos 6 y 7
+8. Voy a por el tercer mergeo con la tercera rama
+9. Tambien modifico en js
