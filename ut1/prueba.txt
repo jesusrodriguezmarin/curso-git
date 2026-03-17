@@ -1,0 +1,7 @@
+Vamos a por otra prueba tras:
+
+1. Creación de web(html/js).
+2. Creación de rama.
+3. Add con +
+4. Commit (boton azul).
+5. Sincro.
